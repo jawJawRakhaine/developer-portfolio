@@ -31,12 +31,12 @@ section {
   border-radius: 5px;
 }
 .top-banner {
-  background-image: url(/Images/top-banner.png);
+  background-image: url(top-banner.png);
   background-repeat: no-repeat;
 }
 
 .dream-big {
-  background-image: url(/Images/dream-bg.png);
+  background-image: url(dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
