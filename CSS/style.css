@@ -12,6 +12,7 @@ h1 {
 
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -20,7 +21,8 @@ section {
 .half-width img {
   width: 80%;
 }
-.hire-me-btn {
+.hire-me-btn,
+.download-resume-btn {
   text-decoration: none;
   background-image: linear-gradient(orange, tomato);
   color: white;
