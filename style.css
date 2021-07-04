@@ -12,6 +12,9 @@ h2 {
 .orange-color {
   color: orange;
 }
+.tomato {
+  color: tomato;
+}
 
 .flexible-container {
   display: flex;
